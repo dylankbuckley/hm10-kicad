@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R_PHOTO
+D Photoresistor, light sensitive resistor, LDR
+K resistor variable light opto LDR
+$ENDCMP
+#
+$CMP hm10
+D HM10 Bluetooth Module
+K hm10, bluetooth
+$ENDCMP
+#
+#End Doc Library
